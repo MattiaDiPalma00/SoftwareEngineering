@@ -1,0 +1,1 @@
+https://www.figma.com/file/DxbZutm30bnEt7yz4Kx6kp/SmartLaundry?node-id=44%3A7730&t=nrzi4Y08wbDHQpS8-1
