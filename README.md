@@ -47,5 +47,6 @@ In case such atypical situations become habitual (eg: the user has the habit of 
 
 DOCS:
 
-[Modello di analisi - RAD](https://github.com/MattiaDiPalma00/Software_Engineering/blob/main/Progetto%20ing%20software/Modello%20di%20analisi%20-%20RAD.pdf)
-[Modello di progettazione - SDD](https://github.com/MattiaDiPalma00/Software_Engineering/blob/main/Progetto%20ing%20software/Modello%20di%20progettazione%20-%20SDD.pdf)
+-[Modello di analisi - RAD](https://github.com/MattiaDiPalma00/Software_Engineering/blob/main/Progetto%20ing%20software/Modello%20di%20analisi%20-%20RAD.pdf)
+
+-[Modello di progettazione - SDD](https://github.com/MattiaDiPalma00/Software_Engineering/blob/main/Progetto%20ing%20software/Modello%20di%20progettazione%20-%20SDD.pdf)
