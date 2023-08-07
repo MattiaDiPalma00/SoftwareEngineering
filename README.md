@@ -1,7 +1,5 @@
 # Software_Engineering 
 
-FOR MORE DETAILS -> POWER POINT PRESENTATION.
-
 DESCRIPTION:
 The project concerns a single appliance that includes 4 different devices:
 1. Washing of laundry
@@ -45,7 +43,11 @@ For this purpose must also be able to detect atypical situations (for example if
 appreciable increase in relative air humidity when the user takes a shower).
 In case such atypical situations become habitual (eg: the user has the habit of showering all evenings around 20:00) consider them in their own elaborations.
 
+FOR MORE DETAILS:
 DOCS:
 * [Modello di analisi - RAD](https://github.com/MattiaDiPalma00/Software_Engineering/blob/main/Progetto%20ing%20software/Modello%20di%20analisi%20-%20RAD.pdf)
 
 * [Modello di progettazione - SDD](https://github.com/MattiaDiPalma00/Software_Engineering/blob/main/Progetto%20ing%20software/Modello%20di%20progettazione%20-%20SDD.pdf)
+
+* [Presentazione PowerPoint](https://github.com/MattiaDiPalma00/Software_Engineering/blob/main/Progetto%20ing%20software/Presentazione%20SmartLaundry.ppsx)
+  
